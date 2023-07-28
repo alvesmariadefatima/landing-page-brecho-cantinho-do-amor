@@ -1,0 +1,10 @@
+/* Adicione o estilo para o menu menor aqui */
+.text-center a {
+    padding: 8px 10px; /* Valor pode ser ajustado conforme desejado */
+    font-size: 16px; /* Valor pode ser ajustado conforme desejado */
+}
+.section-wrapper {
+    margin: 0 20px; /* Ajuste as margens conforme necessário */
+    border-radius: 10px;
+    overflow: hidden;
+}
