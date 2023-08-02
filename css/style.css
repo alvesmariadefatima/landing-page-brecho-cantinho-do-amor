@@ -1,0 +1,10 @@
+.flex {
+    display: flex;
+    justify-content: center; /* Alinha os itens horizontalmente ao centro */
+    align-items: center; /* Alinha os itens verticalmente ao centro */
+}
+    /* Adicione outras regras de estilo que você precise */
+.section-wrapper {
+    border-radius: 1rem; /* Ou o valor que desejar para o arredondamento das bordas */
+    overflow: hidden; /* Para garantir que o arredondamento funcione corretamente */
+}
