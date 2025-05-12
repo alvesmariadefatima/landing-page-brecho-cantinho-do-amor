@@ -1,5 +1,5 @@
-# 🍕 Landing Page Pizzaria Ki Delicia 🍕
-Landing Page de uma pizzaria fictícia chamada Ki Delícia desenvolvido em HTML, CSS e Tailwind.
+# Landing Page Cantinho do Amor ❤️ 
+Landing Page de uma loja virtual de brecho chamada Cantinho do Amor, desenvolvido em HTML, CSS e Tailwind.
 
 <p><b>Tecnologias:</b></p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
